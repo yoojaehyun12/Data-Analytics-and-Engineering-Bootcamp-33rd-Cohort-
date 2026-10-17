@@ -10,7 +10,7 @@
 
 ![프로젝트 표지](assets/cover.png)
 
-[📄 최종 발표자료 PDF 보기](멀티캠퍼스_최종프로젝트_진료과추천서비스.pdf)
+[📄 최종 발표자료 PDF 보기](Final-ppt.pdf)
 
 </div>
 
